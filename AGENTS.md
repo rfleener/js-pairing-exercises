@@ -75,3 +75,22 @@
 - Never commit directly to main
 - Always work on the session branch: forge/d5336c3e
 - Push after completing each logical unit of work
+
+---
+
+# Session Context — d5336c3e
+
+## Repository
+- Repo: rfleener/js-pairing-exercises
+- Session branch: forge/d5336c3e
+
+## Conventions
+- Use structured logging only (no console.log in orchestrator code)
+- TypeScript strict mode is enabled
+- Commit logical units of work with descriptive messages
+- Run tests before committing when possible
+
+## Session Rules
+- Never commit directly to main
+- Always work on the session branch: forge/d5336c3e
+- Push after completing each logical unit of work
